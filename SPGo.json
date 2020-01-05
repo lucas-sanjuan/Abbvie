@@ -1,0 +1,11 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "http://sp2k16:12000",
+    "publishingScope": "Major",
+    "authenticationType": "NTLM",
+    "remoteFolders":[
+        "/Style Library/",
+        "/Sitepages/"
+
+    ]
+}
